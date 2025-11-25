@@ -168,24 +168,28 @@ Dengan CSS ini, aplikasi terlihat lebih bersih dan enak dilihat.
 
 ---
 
-📷 9. Screenshot Hasil
+## 📷 9. Screenshot Hasil
 
-1. Tampilan index.php
+### 1. Tampilan index.php
 
 <img src="lab8_php_database/images/index.png" width="700">
 
-2. Tampilan tambah data
+#### 2. Tampilan tambah data
 
 <img src="lab8_php_database/images/tambah.png" width="700">
 
-3. Tampilan ubah data
+### 3. Tampilan ubah data
 
 <img src="lab8_php_database/images/ubah.png" width="700">
 
 
-4. Hasil penghapusan
+### 4. Hasil penghapusan
 
 <img src="lab8_php_database/images/hapus.png" width="700">
+
+#### 5. Struktur database di phpMyAdmin
+
+<img src="lab8_php_database/images/database.png" width="700">
 
 
 
