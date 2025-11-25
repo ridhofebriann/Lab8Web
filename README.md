@@ -172,19 +172,21 @@ Dengan CSS ini, aplikasi terlihat lebih bersih dan enak dilihat.
 
 1. Tampilan index.php
 
-<img src="lab6_bootstrap/images/PORTFOLIO.png" width="700">
+<img src="lab8_php_database/images/index.png" width="700">
 
 2. Tampilan tambah data
 
-<img src="lab6_bootstrap/images/PORTFOLIO.png" width="700">
+<img src="lab8_php_database/images/tambah.png" width="700">
 
-3. Tampilan edit data
+3. Tampilan ubah data
 
-<img src="lab6_bootstrap/images/PORTFOLIO.png" width="700">
+<img src="lab8_php_database/images/ubah.png" width="700">
+
 
 4. Hasil penghapusan
 
-<img src="lab6_bootstrap/images/PORTFOLIO.png" width="700">
+<img src="lab8_php_database/images/hapus.png" width="700">
+
 
 
 
